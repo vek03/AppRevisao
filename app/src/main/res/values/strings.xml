@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRevisao</string>
+    <string name="roll_label">Testar</string>
+    <string name="text">Digite os valores:</string>
+</resources>
